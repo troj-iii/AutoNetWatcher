@@ -1,0 +1,8 @@
+packages/
+bin/
+obj/
+packages/
+*.user
+.vs/
+AutoBuild.bat
+test.bat
