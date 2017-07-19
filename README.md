@@ -1,0 +1,2 @@
+# AutoNetWatcher
+On some restrict circumstance, the visit must be through VPN, the local net must be hidden behind VPN. This program gives you the ability to do it. Start this program when you prepare the VPN and before starting you bussiness. On the VPN disconnected, the program will tell you through a warning message on right-bottom corner of desktop, AND DISABLE YOUR VIRTUAL MACHINE's NETCARD. Now, only supports Virtual Machine ware(VM) and Virtual Box(VB).
